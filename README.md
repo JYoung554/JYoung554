@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 
+
 - 😄 Pronouns: He/Him
 - 🤔 I’m looking for a job as a Software Engineer
 - 🌱 I’m currently learning Python
