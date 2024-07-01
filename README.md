@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Home] (/assets/Jonte.gif)
+
 
 - 😄 Pronouns: He/Him
 - 🤔 I’m looking for a job as a Software Engineer
