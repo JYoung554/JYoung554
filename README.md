@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Welcome 👋
 ![Homepage](/assets/Jonte.gif)
 
 - 😄 Pronouns: He/Him
