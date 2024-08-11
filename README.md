@@ -28,6 +28,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # Apollo
+<a href="https://github.com/JYoung554/Apollo">
+<img src="https://github.com/JYoung554/Apollo/blob/main/Screen%20Shot%202022-10-02%20at%206.27.01%20PM.png?raw=true"
+</a>
 
 ![Apollo](https://github.com/JYoung554/Apollo/blob/main/Screen%20Shot%202022-10-02%20at%206.27.01%20PM.png?raw=true)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -38,15 +41,19 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 # ConnectFour!
+<a href="https://github.com/JYoung554/ConnectFour-Game">
+<img src="https://github.com/user-attachments/assets/a81e197a-0425-4161-9606-d8072e5192fe"
+</a>
 
-![C4Snap](https://github.com/user-attachments/assets/a81e197a-0425-4161-9606-d8072e5192fe)
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 # Tic-Tac-Toe
-
-![Tic Tac Toe](https://github.com/JYoung554/Tic_Tac_Toe/blob/main/Screen%20Shot%202022-03-11%20at%204.34.19%20AM.png)
+<a href="https://github.com/JYoung554/Tic_Tac_Toe">
+<img src="https://github.com/JYoung554/Tic_Tac_Toe/blob/main/Screen%20Shot%202022-03-11%20at%204.34.19%20AM.png"
+</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
